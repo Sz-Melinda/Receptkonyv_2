@@ -1,0 +1,38 @@
+
+@charset "utf-8";
+
+main {
+
+    width: 80%;
+    max-width: 800px;
+    margin: auto;
+    padding: 10px;
+}
+
+main, header, article, section, footer, div {
+
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+table, td, th {
+
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+
+section {
+
+    display: grid;
+    grid-template-columns: 50px auto 50px;
+}
+
+footer{
+
+    text-align: center;
+}
+
+.hatter {
+
+    background-color: burlywood;
+}

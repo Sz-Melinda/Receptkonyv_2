@@ -1,0 +1,44 @@
+{
+    "receptkonyv": [
+
+    {
+            "nev": "Somlói galuska",
+            "elkIdo": "60 perc",
+            "kep": "kepek/somloi.jpg",
+            "leiras": "Így kell elkészíteni a somlóit",
+            "hozzavalok": [
+
+                {"liszt": "50 dkg"},
+                {"tojas": "6 db"},
+                {"csoki": "1 tábla"}
+            ]
+        },
+
+        {
+            "nev": "Articsóka leves",
+            "elkIdo": "10 perc",
+            "kep": "kepek/articsokaleves.jpg",
+            "leiras": "Így kell elkészíteni az articsókát",
+            "hozzavalok": [
+
+                {"articsóka": "1 db"},
+                {"tejföl": "250 g"}
+            ]
+        },
+
+        {
+            "nev": "Pörkölt",
+            "elkIdo": "35 perc",
+            "kep": "kepek/porkolt.jpg",
+            "leiras": "Így kell elkészíteni a pörköltöt",
+            "hozzavalok": [
+
+                {"sertéscomb": "1 kg"},
+                {"hagyma": "2 db"},
+                {"paprika": "1 db"},
+                {"paradicsom": "1 db"},
+                {"pirospaprika": "1 kiskanál"}
+            ]
+        }
+    ]
+}
